@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import { VelocityTransitionGroup } from "velocity-react";
 
-require("./progressive-image.scss");
+require("./styles.scss");
 
 export default class FollainProgressiveImage extends Component {
   constructor(props) {
